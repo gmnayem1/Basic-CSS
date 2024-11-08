@@ -1,0 +1,29 @@
+h1 {
+  color: brown;
+  text-align: center;
+}
+.box {
+  width: 350px;
+  height: 350px;
+  overflow: scroll;
+  padding-left: 10px;
+}
+label {
+  color: red;
+  padding: 50%;
+  font-size: large;
+  font-style: italic;
+}
+div {
+  background-image: url(./depositphotos_367181292-stock-photo-empty-bench-sad-background.jpg);
+  background-size: cover;
+}
+p {
+  color: whitesmoke;
+}
+.first {
+  color: black;
+}
+body {
+  background-color: antiquewhite;
+}
